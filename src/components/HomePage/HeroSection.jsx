@@ -13,7 +13,7 @@ export default function HeroSection() {
         “Where can I check you out?”. Whether you’re a business or a self-employed individual, the world deserves to know you. 
         With your vision and our technological consulting, let’s place you on the digital map of success!
       </p>
-      <button className="mt-8 mx-4 py-0 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
+      <button className="shadow-lg mt-8 mx-4 py-0 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
         Get Started Now – Website Pro and App Development
       </button>
     </section>

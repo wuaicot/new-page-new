@@ -12,7 +12,7 @@ export default function BrandSection() {
           Your brand is more than just a name. Take it to the next level with creative expertise and technological edge. 
           We give you the ‘X’ factor you are looking for. Why be good when you can be the best?
         </p>
-        <button className="mt-16 px-6 py-3 bg-fuchsia-700/80 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
+        <button className="shadow-lg mt-16 px-6 py-3 bg-fuchsia-700/80 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
           Explore Now – Brand Creation
         </button>
       </div>

@@ -1,14 +1,18 @@
 // File: /app/components/ReputationSection.jsx
 export default function ReputationSection() {
   return (
-    <section className="py-20 bg-gray-800">
-      <div className="text-center">
-        <h2 className="text-4xl font-bold mb-6">Enhance Your Reputation</h2>
-        <p className="max-w-2xl mx-auto">
+    <section className="flex flex-col items-center justify-center h-screen text-center bg-fixed bg-cover bg-center" 
+    style={{ backgroundImage: "url('/assets/hero-bg.png')",
+      backgroundSize: 'cover',
+     backgroundPosition: 'center',
+     }}>
+      <div className="text-center ">
+        <h2 className="text-5xl text-sky-500 font-bold -mt-32 tracking-wide">Enhance Your Reputation</h2>
+        <p className=" text-lg font-bold text-blue-950 max-w-3xl mx-8 my-16">
           People believe what they ‘see’. Revolutionise your online identity with our digital marketing and ORM services 
           to reach the next level!
         </p>
-        <button className="mt-8 px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
+        <button className="shadow-lg mt-8 px-4 py-3 bg-purple-700 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
           Explore Now – Digital Marketing and ORM
         </button>
       </div>
