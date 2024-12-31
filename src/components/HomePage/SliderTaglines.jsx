@@ -28,7 +28,7 @@ export default function SliderTaglines() {
        backgroundPosition: 'center',
        }}>
         <div className="    text-center  " >  
-      <h2 className=" text-2xl font-bold animate-fade-in text-orange-600">{taglines[currentTagline]}</h2>
+      <h2 className="-mt-40 text-2xl font-bold animate-fade-in text-orange-600">{taglines[currentTagline]}</h2>
     </div>
       </section>
     
