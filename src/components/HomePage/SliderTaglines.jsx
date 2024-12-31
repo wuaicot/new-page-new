@@ -21,8 +21,19 @@ export default function SliderTaglines() {
   }, []);
 
   return (
-    <div className="bg-gray-800 text-center   pt-60 pb-60">  
-      <h2 className="text-2xl font-semibold animate-fade-in">{taglines[currentTagline]}</h2>
+    
+      <section className="flex flex-col items-center justify-center h-screen text-center bg-fixed bg-cover bg-center" 
+      style={{ backgroundImage: "url('/assets/hero-bg.png')",
+        backgroundSize: 'cover',
+       backgroundPosition: 'center',
+       }}>
+        <div className="    text-center  " >  
+      <h2 className=" text-2xl font-bold animate-fade-in text-orange-600">{taglines[currentTagline]}</h2>
     </div>
+      </section>
+    
+
   );
+  
+
 }
