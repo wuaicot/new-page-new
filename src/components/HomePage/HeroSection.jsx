@@ -8,7 +8,7 @@ export default function HeroSection() {
       <h1 className="text-5xl text-sky-500 font-bold mb-6 tracking-wide">
         Build Something Meaningful
       </h1>
-      <p className="text-lg font-bold text-blue-950 max-w-3xl mx-4">
+      <p className="text-lg font-bold text-blue-950 max-w-3xl mx-4 my-12">
         The first thing someone asks when you talk about your brand is, 
         “Where can I check you out?”. Whether you’re a business or a self-employed individual, the world deserves to know you. 
         With your vision and our technological consulting, let’s place you on the digital map of success!
