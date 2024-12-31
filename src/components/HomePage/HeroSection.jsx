@@ -5,15 +5,15 @@ export default function HeroSection() {
       style={{ backgroundImage: "url('/assets/hero-bg.png')"
         
        }}>
-      <h1 className="text-5xl font-bold mb-6 tracking-wide">
+      <h1 className="text-5xl text-sky-500 font-bold mb-6 tracking-wide">
         Build Something Meaningful
       </h1>
-      <p className="text-lg max-w-3xl">
+      <p className="text-lg text-blue-950 max-w-3xl">
         The first thing someone asks when you talk about your brand is, 
         “Where can I check you out?”. Whether you’re a business or a self-employed individual, the world deserves to know you. 
         With your vision and our technological consulting, let’s place you on the digital map of success!
       </p>
-      <button className="mt-8 px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
+      <button className="mt-8 px-6 py-3 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
         Get Started Now – Website Pro and App Development
       </button>
     </section>
