@@ -1,13 +1,19 @@
-// File: /app/components/ContactSection.jsx
 export default function ContactSection() {
   return (
-    <section className="py-20 bg-gray-900 text-center">
-      <h2 className="text-4xl font-bold mb-6">Like What You See? Contact Us!</h2>
-      <p className="max-w-xl mx-auto mb-8">
+    <section className="flex flex-col items-center justify-center h-screen text-center bg-fixed bg-cover bg-center" 
+    style={{ backgroundImage: "url('/assets/hero-bg.png')",
+      backgroundSize: 'cover',
+     backgroundPosition: 'center',
+     }}>
+      <h2 className="text-5xl text-sky-500 font-bold mb-6 tracking-wide">Like What You See? Contact Us!
+
+      </h2>
+
+      <p className="text-lg font-bold text-blue-950 max-w-3xl mx-4 my-12">
         Avoid delaying your digital success any more than this. 
         Talk to one of our consultants today and learn how to start leveraging your business.
       </p>
-      <button className="px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
+      <button className="shadow-lg mt-8 px-8 py-1 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
         Contact Us
       </button>
     </section>
