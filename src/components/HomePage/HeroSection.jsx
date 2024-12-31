@@ -2,7 +2,9 @@
 export default function HeroSection() {
   return (
     <section className="flex flex-col items-center justify-center h-screen text-center bg-fixed bg-cover bg-center" 
-      style={{ backgroundImage: "url('/assets/.hero-bg.png')" }}>
+      style={{ backgroundImage: "url('/assets/hero-bg.png')"
+        
+       }}>
       <h1 className="text-5xl font-bold mb-6 tracking-wide">
         Build Something Meaningful
       </h1>

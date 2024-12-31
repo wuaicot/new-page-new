@@ -16,12 +16,12 @@ export default function SliderTaglines() {
   useEffect(() => {
     const interval = setInterval(() => {
       setCurrentTagline((prev) => (prev + 1) % taglines.length);
-    }, 3000);
+    }, 2500  );
     return () => clearInterval(interval);
   }, []);
 
   return (
-    <div className="bg-gray-800 text-center py-4">
+    <div className="bg-gray-800 text-center   pt-60 pb-60">  
       <h2 className="text-2xl font-semibold animate-fade-in">{taglines[currentTagline]}</h2>
     </div>
   );
