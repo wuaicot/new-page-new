@@ -9,8 +9,8 @@ const WhoAreWe = () => {
      zIndex: 0,
      
      }}id="who-are-we">
-      <h2 className="md:translate-x-0 md:translate-y-2/5 text-5xl text-sky-500 font-bold mt-60 sm:mb-0 tracking-wide">Who Are We?</h2>
-      <p className="md:translate-x-0 lg:translate-x-80  md:-translate-y-1/4 mr-12 text-md font-bold text-blue-950 max-w-3xl  text-right mx-4 my-6">
+      <h2 className="md:translate-x-40 md:-translate-y-2/4 text-5xl text-sky-500 font-bold mt-60 sm:mb-0 tracking-wide">Who Are We?</h2>
+      <p className="md:translate-x-0 lg:translate-x-80  md:-translate-y-1/4 mr-12 text-md font-bold text-blue-950 max-w-3xl  text-right mx-4 my-6 sm:mb-0 sm:mt-0 text-justify">  
         We, at <span className="text-teal-400">S3A Technologies</span>, are a
         group of highly-qualified and innovative individuals. The ‘S’ in our
         name stands for ‘support’, the ‘A’ for ‘achieving’, and 3 for 3x
