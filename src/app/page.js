@@ -14,7 +14,7 @@ import Principles from '@/components/About/Principles';
 
 export default function HomePage() {
   return (
-    <main className="h-screen snap-y snap-mandatory overflow-y-scroll scroll-smooth bg-gradient-to-b from-gray-900 via-gray-800 to-black text-white">
+    <main className="h-screen snap-y snap-mandatory overflow-y-scroll scroll-smooth bg-white text-white">
       {/* Home Page Sections */}
       <section className="snap-start h-screen">
         <HeroSection />

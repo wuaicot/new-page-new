@@ -9,11 +9,11 @@ export default function ContactSection() {
 
       </h2>
 
-      <p className="text-lg font-bold text-blue-950 max-w-3xl mx-4 mt-12 text-justify">
+      <p className="text-lg font-bold text-blue-950 max-w-3xl mx-4 mt- text-justify">
         Avoid delaying your digital success any more than this. 
         Talk to one of our consultants today and learn how to start leveraging your business.
       </p>
-      <button className="shadow-lg mt-8 px-8 py-1 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all animate-pulse">
+      <button className="shadow-lg mt-8 px-8 py-1 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
         Contact Us
       </button>
     </section>
