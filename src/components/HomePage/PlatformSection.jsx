@@ -7,8 +7,8 @@ export default function PlatformSection() {
      backgroundPosition: 'center',
      }}>
       <div className="text-center">
-        <h2 className="text-5xl text-sky-500 font-bold mb-6 tracking-wide">Create Your Own Platform</h2>
-        <p className="text-justify text-lg font-bold text-blue-950 max-w-3xl mx-4 my-28">
+        <h2 className="sm:-mt-8 text-5xl text-sky-500 font-bold mb-6 tracking-wide">Create Your Own Platform</h2>
+        <p className="text-justify text-lg font-bold text-blue-950 max-w-3xl mx-4 sm:my-14  ">
           Wish you could have your products and services in one place? 
           With our secure IT solutions, have your own web and mobile application set up in no time.
         </p>
