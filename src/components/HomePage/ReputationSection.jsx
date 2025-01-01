@@ -12,7 +12,8 @@ export default function ReputationSection() {
           People believe what they ‘see’. Revolutionise your online identity with our digital marketing and ORM services 
           to reach the next level!
         </p>
-        <button className="shadow-lg mt-8 px-4 py-3 bg-purple-700 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all">
+        <button className="shadow-lg mt-8 px-4 sm:py-2
+        sm:mt-0 bg-purple-700 hover:bg-blue-600 text-white rounded-lg text-lg font-medium animate-pulse transition-all">
           Explore Now – Digital Marketing and ORM
         </button>
       </div>
