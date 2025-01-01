@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 export default function HeroSection() {
   return (
@@ -31,8 +31,6 @@ export default function HeroSection() {
           Get Started Now – Website Pro and App Development
         </button>
       </div>
-
-      
     </section>
   );
 }

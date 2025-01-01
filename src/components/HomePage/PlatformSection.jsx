@@ -12,7 +12,7 @@ export default function PlatformSection() {
           Wish you could have your products and services in one place? 
           With our secure IT solutions, have your own web and mobile application set up in no time.
         </p>
-        <button className="mt-8 px-6 py-1 mx-4 bg-cyan-700 hover:bg-blue-700 text-white rounded-lg text-lg font-medium transition-all">
+        <button className="mt-8 px-6 py-1 mx-4 bg-cyan-700 hover:bg-blue-700 text-white rounded-lg text-lg font-medium transition-all animate-pulse  sm:-mt-14">
           Explore Now – Web Application and Mobile Application
         </button>
       </div>
