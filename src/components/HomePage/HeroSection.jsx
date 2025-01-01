@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function HeroSection() {
   return (
-    <section className="relative flex flex-col items-center justify-center h-screen text-center">
+    <section className="relative flex items-center justify-center h-screen text-center ">
       {/* Video background */}
       <video
         className="absolute top-0 left-0 w-full h-full object-cover"
@@ -27,7 +27,7 @@ export default function HeroSection() {
           technological consulting, let’s place you on the digital map of
           success!
         </p>
-        <button className="shadow-lg mt-8 py-1 px-4 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all mx-8">
+        <button className="sm:absolute shadow-lg mt-8 py-1 px-4 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all mx-8 sm:-my-11">
           Get Started Now – Website Pro and App Development
         </button>
       </div>
