@@ -27,7 +27,7 @@ export default function HeroSection() {
           technological consulting, let’s place you on the digital map of
           success!
         </p>
-        <button className="sm:absolute shadow-lg mt-8 py-1 px-4 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all mx-8 sm:-my-24">
+        <button className="sm:absolute shadow-lg mt-8 py-1 px-4 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all mx-8 sm:-my-20">
           Get Started Now – Website Pro and App Development
         </button>
       </div>
