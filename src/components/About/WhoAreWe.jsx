@@ -31,7 +31,9 @@ const WhoAreWe = () => {
       </p>
       <a
         href="#testimonials"
-        className="  inline-block px-6 py-1 my-48 bg-teal-400 text-black font-medium rounded hover:bg-teal-500 transition md:translate-x-3/4 md:-translate-y-16
+        className="  inline-block px-6 py-1 my-24 bg-teal-400 text-black font-medium rounded hover:bg-teal-500 transition 
+        -translate-y-full mb-40 sm:translate-x-1/2
+        md:translate-x-3/4 md:-translate-y-16
         lg:translate-y-1/2
         lg:translate-x-full
          sm:mb-30  sm:mt-0 sm:mb-30"
