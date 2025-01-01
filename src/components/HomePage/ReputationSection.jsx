@@ -8,7 +8,7 @@ export default function ReputationSection() {
      }}>
       <div className="text-center ">
         <h2 className="text-5xl text-sky-500 font-bold -mt-32 tracking-wide">Enhance Your Reputation</h2>
-        <p className=" text-lg font-bold text-blue-950 max-w-3xl mx-8 my-16">
+        <p className="text-justify text-lg font-bold text-blue-950 max-w-3xl mx-8 my-16">
           People believe what they ‘see’. Revolutionise your online identity with our digital marketing and ORM services 
           to reach the next level!
         </p>

@@ -8,7 +8,7 @@ export default function EducationSection() {
      }}>
       <div className="text-center">
         <h2 className="text-5xl text-sky-500 font-bold mb-6 tracking-wide">Take Education One Step Ahead</h2>
-        <p className="text-lg font-bold text-blue-950 max-w-3xl mx-4  my-32 mb-12">
+        <p className="text-justify text-lg font-bold text-blue-950 max-w-3xl mx-4  my-32 mb-12">
           Get everything in one place, from your modules to your students, 
           with our Learning Management Systems!
         </p>

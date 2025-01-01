@@ -8,7 +8,7 @@ export default function BrandSection() {
      }}>
       <div className="text-center">
         <h2 className="text-5xl text-sky-500 font-bold mb-12 -mt-10 tracking-wide">Expand Your Brand</h2>
-        <p className="mx-6 text-lg font-bold text-blue-950 max-w-3xl">
+        <p className="text-justify mx-6 text-lg font-bold text-blue-950 max-w-3xl">
           Your brand is more than just a name. Take it to the next level with creative expertise and technological edge. 
           We give you the ‘X’ factor you are looking for. Why be good when you can be the best?
         </p>

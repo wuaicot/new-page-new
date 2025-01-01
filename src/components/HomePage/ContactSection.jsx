@@ -9,7 +9,7 @@ export default function ContactSection() {
 
       </h2>
 
-      <p className="text-lg font-bold text-blue-950 max-w-3xl mx-4 my-12">
+      <p className="text-lg font-bold text-blue-950 max-w-3xl mx-4 my-12 text-justify">
         Avoid delaying your digital success any more than this. 
         Talk to one of our consultants today and learn how to start leveraging your business.
       </p>
