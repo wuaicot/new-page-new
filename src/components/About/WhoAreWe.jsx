@@ -24,14 +24,14 @@ const WhoAreWe = () => {
       </p>
       <p className="sm:mx-20 text-md font-bold text-blue-950 max-w-3xl  text-center mb-12  text-justify text-center tracking-wide
       text-center
-      mb-4 md:translate-y-0 md:-translate-y-2">
+      mb-4 md:translate-y-0 md:-translate-y-3">
         With the expertise of IT wizards, we offer the best-in-class digital
         solutions for you and your company. We’re not just here to provide a
         service, we are here to provide solutions. Understanding the current
         market pressures, analyzing your company’s needs, and delivering the
         desired success to your doorstep.
       </p>
-      <p className="sm:mx-20 tracking-wide  text-md font-bold text-blue-950 max-w-3xl  text-center mb-4  text-justify text-center sm:-translate-y-12 mb-4 md:-translate-y-2">
+      <p className="sm:mx-20 tracking-wide  text-md font-bold text-blue-950 max-w-3xl  text-center mb-4  text-justify text-center sm:-translate-y-12 mb-4 md:-translate-y-4">
         But don’t take our word for it, listen to the experienced Technocrats,
         our esteemed clients, and private businesses that swear by us.
       </p>
