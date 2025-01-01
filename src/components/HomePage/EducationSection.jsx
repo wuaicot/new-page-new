@@ -13,7 +13,7 @@ export default function EducationSection() {
           with our Learning Management Systems!
         </p>
         <button className="shadow-lg mt-8 mx-4 py-1 bg-emerald-700 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all sm:-translate-y-6
-        sm:translate-x-1/4 sm:shadow-2xl sm:py-2 sm:px-4 sm:mt-10 sm:mb-10">
+        sm:translate-x-1/4 sm:shadow-2xl sm:py-2 sm:px-4 sm:mt-10 sm:mb-10 animate-pulse">
           Explore Now – Learning Management System (LMS)
         </button>
       </div>
