@@ -9,7 +9,7 @@ export default function HeroSection() {
         autoPlay
         loop
         muted
-        
+        playsInline
       >
         <source src="/assets/Abstract_Background.mp4" type="video/mp4" />
         Your browser does not support the video tag.
@@ -27,7 +27,7 @@ export default function HeroSection() {
           technological consulting, let’s place you on the digital map of
           success!
         </p>
-        <button className="sm:absolute shadow-lg mt-8 py-1 px-4 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium transition-all mx-8 sm:-my-20">
+        <button className="sm:absolute shadow-lg mt-8 py-1 px-4 bg-orange-600 hover:bg-blue-600 text-white rounded-lg text-lg font-medium  mx-8 sm:-my-20 animate-pulse">
           Get Started Now – Website Pro and App Development
         </button>
       </div>
