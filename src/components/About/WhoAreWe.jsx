@@ -3,15 +3,11 @@ import React from "react";
 const WhoAreWe = () => {
   return (
     <section
-      className="flex z-10 flex-col items-center justify-center h-screen text-center bg-fixed bg-cover bg-center"
-      style={{
-        backgroundImage: "url('/assets/rb_177769.png')",
-        backgroundSize: "cover",
-        backgroundPosition: "center",
-        zIndex: 0,
-        backgroundAttachment: "fixed",
-        backgroundRepeat: "no-repeat",
-      }}
+    className="flex flex-col items-center justify-center h-screen text-center bg-fixed bg-cover bg-center" 
+    style={{ backgroundImage: "url('/assets/hero-bg.png')",
+      backgroundSize: 'cover',
+     backgroundPosition: 'center',
+     }}
       id="who-are-we"
     >
       <div className="justify-center items-center flex flex-col">

@@ -18,7 +18,7 @@ const VisionMission = () => {
   return (
     <section className="flex z-10 flex-col items-center justify-center h-screen text-center bg-fixed bg-cover bg-center"
     style={{
-      backgroundImage: "url('/assets/rb_177769.png')",
+      backgroundImage: "url('/assets/hero-bg.png')",
       backgroundSize: "cover",
       backgroundPosition: "center",
       zIndex: 0,

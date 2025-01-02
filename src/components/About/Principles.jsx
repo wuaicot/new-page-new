@@ -5,7 +5,7 @@ const Principles = () => {
     <section
       className="flex z-10 flex-col items-center justify-center h-screen text-center bg-fixed bg-cover bg-center px-4 sm:px-6 lg:px-12"
       style={{
-        backgroundImage: "url('/assets/rb_177769.png')",
+        backgroundImage: "url('/assets/hero-bg.png')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         zIndex: 0,
