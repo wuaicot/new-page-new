@@ -7,6 +7,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        sans: ["var(--font-tektur)", "sans-serif"], // Agrega Tektur como fuente predeterminada para sans
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",

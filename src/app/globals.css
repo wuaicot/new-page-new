@@ -5,6 +5,7 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --font-tektur: "Tektur", serif; /* Define la fuente Tektur */
 }
 
 @media (prefers-color-scheme: dark) {
@@ -17,6 +18,5 @@
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-tektur), serif; /* Aplica Tektur como fuente */
 }
-
